@@ -1,0 +1,20 @@
+# Python
+# Este projeto utiliza apenas bibliotecas padrão do Python 3.8+
+# Não há dependências externas a serem instaladas
+
+# Para executar o projeto, você precisa apenas de:
+# - Python 3.8 ou superior
+
+# Bibliotecas padrão utilizadas:
+# - collections (deque, defaultdict)
+# - heapq (heap binário)
+# - typing (type hints)
+# - os (limpar tela)
+# - sys (exit)
+
+# Para verificar sua versão do Python:
+# python --version
+# ou
+# python3 --version
+
+# Nenhum comando pip install é necessário!
