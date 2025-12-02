@@ -151,13 +151,6 @@ trabGrafosPart2/
 ├── LICENSE                      # Licença MIT
 ├── requirements.txt             # Dependências (vazio - usa stdlib)
 ├── .gitignore                   # Arquivos ignorados pelo Git
-└── [documentação adicional]
-    ├── ARTIGO_IEEE_TEMPLATE.md
-    ├── GUIA_APRESENTACAO.md
-    ├── RESUMO_EXECUTIVO.md
-    ├── COMANDOS.md
-    ├── ARQUIVOS.md
-    └── COMECE_AQUI.txt
 ```
 
 ---
@@ -178,7 +171,7 @@ trabGrafosPart2/
 - **Arestas:** Latência entre servidores em ms
 - **Aplicação:** Roteamento em redes, análise de latência
 
-### Aplicações Práticas Reais ⭐ NOVO!
+### Aplicações Práticas Reais
 
 #### 3. 🌐 Rede Social (20 vértices)
 - **Algoritmo ideal:** BFS
@@ -345,60 +338,6 @@ print(f"Custo total da MST: {resultado['custo_total']} km")
 print(f"Número de arestas: {len(resultado['arestas'])}")
 ```
 
----
-
-## 🎥 Apresentação em Vídeo
-
-**IMPORTANTE:** Para atender aos requisitos do trabalho, grave um vídeo de até 20 minutos contendo:
-
-1. **Conceitos Teóricos** (5-7 minutos)
-   - Explicação de cada algoritmo
-   - Quando usar cada um
-   - Complexidade computacional
-
-2. **Demonstração do Código** (8-10 minutos)
-   - Estrutura do projeto
-   - Código comentado
-   - Execução passo a passo
-
-3. **Exemplos Práticos** (3-5 minutos)
-   - Execução do programa
-   - Interpretação dos resultados
-   - Casos de uso reais
-
-**Dicas para a gravação:**
-- Use o menu interativo do programa para demonstrar
-- Execute comparações entre algoritmos
-- Mostre os grafos com pelo menos 16 vértices
-- Todos os integrantes devem participar
-
----
-
-## 📄 Artigo IEEE
-
-Um template para o artigo no formato IEEE está disponível no arquivo `ARTIGO_IEEE_TEMPLATE.md`.
-
-O artigo deve conter:
-
-1. **Resumo (Abstract)**
-2. **Introdução**
-3. **Fundamentação Teórica**
-   - Descrição de cada algoritmo
-   - Análise de complexidade
-4. **Metodologia**
-   - Linguagem e ferramentas
-   - Estrutura de dados utilizada
-5. **Implementação**
-   - Detalhes técnicos
-   - Decisões de projeto
-6. **Resultados**
-   - Testes realizados
-   - Análise comparativa
-7. **Conclusão**
-8. **Referências**
-
----
-
 ## 🧪 Testes
 
 Para verificar se tudo está funcionando:
@@ -409,26 +348,6 @@ python main.py
 # Escolha opção 5 no menu
 ```
 
----
-
-## 📚 Referências
-
-### Livros
-- CORMEN, Thomas H. et al. **Introduction to Algorithms**. 3rd ed. MIT Press, 2009.
-- SEDGEWICK, Robert; WAYNE, Kevin. **Algorithms**. 4th ed. Addison-Wesley, 2011.
-
-### Artigos e Documentação
-- Dijkstra, E. W. (1959). "A note on two problems in connexion with graphs"
-- Bellman, R. (1958). "On a routing problem"
-- Kruskal, J. B. (1956). "On the shortest spanning subtree of a graph"
-- Prim, R. C. (1957). "Shortest connection networks and some generalizations"
-
-### Online
-- [GeeksforGeeks - Graph Algorithms](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
-- [Wikipedia - Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
-- [Python Documentation](https://docs.python.org/3/)
-
----
 
 ## 📝 Licença
 
@@ -441,38 +360,3 @@ Este projeto foi desenvolvido para fins educacionais.
 Para dúvidas sobre o projeto, entre em contato com os membros da equipe.
 
 ---
-
-## ✅ Checklist para Entrega
-
-- [ ] Todos os algoritmos implementados e funcionando
-- [ ] Código comentado e explicado
-- [ ] Grafos com pelo menos 16 vértices
-- [ ] README.md completo com instruções
-- [ ] Vídeo de apresentação gravado (até 20 minutos)
-- [ ] Artigo no formato IEEE
-- [ ] Código disponível no GitHub
-- [ ] Nomes dos integrantes atualizados
-- [ ] Todos os integrantes participaram da gravação
-
----
-
-## 🎓 Observações Importantes
-
-1. **Código Original:** Todo o código foi desenvolvido especificamente para este trabalho. Códigos copiados terão pontuação descontada ou anulada.
-
-2. **Comentários:** O código está extensivamente comentado para facilitar a compreensão e apresentação.
-
-3. **Requisitos Atendidos:**
-   - ✅ Grafos com mínimo de 16 vértices
-   - ✅ Todos os algoritmos solicitados implementados
-   - ✅ Código explicado e comentado
-   - ✅ Demonstrações funcionais
-   - ✅ Problemas práticos simulados
-
-4. **Bônus:** Implementação adicional de algoritmos de MST (Kruskal e Prim) para equipes com mais de 4 integrantes.
-
----
-
-**Bom trabalho! 🚀**
-
-*Última atualização: Dezembro 2025*
