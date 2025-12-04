@@ -30,15 +30,13 @@ Este projeto implementa e demonstra os principais algoritmos de busca e caminham
 
 **IMPORTANTE:** Edite esta seção com os nomes dos integrantes da equipe!
 
-- [Nome do Aluno 1] - [Matrícula]
-- [Nome do Aluno 2] - [Matrícula]
-- [Nome do Aluno 3] - [Matrícula]
-- [Nome do Aluno 4] - [Matrícula]
+- Rafael Batista Ferreira
+- Paulo Ricardo da Rocha Cunha
+- Roberto Bezerra de Castro
+- Noam Geraldo Ismael Coelho
+- Rodrigo Marques Mattos da Silva
 
-**Disciplina:** [Nome da Disciplina]  
-**Professor:** [Nome do Professor]  
-**Instituição:** [Nome da Instituição]  
-**Período:** Dezembro 2025
+**Disciplina:** Teoria de grafos
 
 ---
 
